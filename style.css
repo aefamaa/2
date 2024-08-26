@@ -1,0 +1,260 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+    list-style: none;
+    font-family: "Rubik", sans-serif;
+}
+.header{
+    width: 1440px;
+    height: 50.41px;
+    margin: 54px 135px;
+   
+}
+.nav{
+    margin: 75px 0px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid rgb(255, 255, 255); 
+    margin: 157px 90px;
+}
+.nav ul{
+    display: flex;
+   align-items: center;
+    gap: 60px;
+}
+.nav ul li{
+font-size: 18px;
+font-weight: 400;
+line-height: 21.33px;
+text-align: left;
+color: rgba(54, 56, 83, 1);
+}
+.birimg{
+    width: 40px;
+height: 30px;    
+}
+.butto{
+ width: 120px;
+ height: 50px;
+ border-radius: 5px;
+ color: white;
+ border: none;
+ background-color: rgba(255, 122, 80, 1);
+ box-shadow: 0px 22px 40px  rgba(255, 104, 56, 0.19);
+}
+.ikkiimg{
+    width: 18.5px;
+height: 17.83px;
+}
+.birimg{
+    width: 24px;
+height: 23.72px;
+}
+.header-content{
+display: flex;
+}
+.header-content_text h1{
+    font-size: 66px;
+    font-weight: 500;
+    line-height: 78.21px;
+    text-align: left;   
+    color: rgba(54, 56, 83, 1); 
+}
+.header-content_text h1 span{
+font-size: 66px;
+font-weight: 500;
+line-height: 78.21px;
+color: rgba(255, 122, 80, 1);
+}
+.header-content_text p{
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+margin-top: 23px;
+margin-bottom: 43px;
+}
+.button{
+font-size: 20px;
+font-weight: 400;
+line-height: 23.7px;
+text-align: center;
+background-color: rgba(255, 122, 80, 1);
+box-shadow: 0px 22px 40px  rgba(255, 104, 56, 0.19);
+border: none;
+width: 163px;
+height: 50.41px;
+top: 607.78px;
+left: 95px;
+border-radius: 5px ;
+color: rgba(255, 255, 255, 1);
+}
+.header-content_img{
+    width: 728px;
+height: 681px;
+top: 157px;
+left: 625px;
+}
+.header-content_text{
+    width: 530px;
+height: 156px;
+top: 318px;
+left: 95px;
+margin: 180px auto;
+}
+.stay{
+    display: flex;
+    align-items: center;
+    margin: 962px 136px 44px ;
+    gap: 150px;
+}
+.stay_text{
+width: 449px;
+
+}
+.stay_button{
+    width: 176px;
+    height: 58px;
+    border: 30px 30px 1px 30px;
+    background-color: #FF7A50;
+    color: white;
+    border: none;
+}
+.stay_text p{
+    margin-top: 50px;
+    margin-bottom: 141px;
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+}
+.stay_text h2{
+    width: 384px;
+height: 100px;
+top: 1076px;
+left: 855px;
+font-size: 36px;
+font-weight: 500;
+line-height: 50px;
+text-align: left;
+}
+.stay_text h2 span{
+font-size: 36px;
+font-weight: 500;
+line-height: 50px;
+text-align: left;
+}
+.cards{
+      display: flex;
+      justify-content: space-between;
+      margin: 50px;
+}
+
+.card{
+    width: 361px;
+height: 417px;
+
+}
+.section{
+    margin: 0 156px;
+}
+.card img{
+    width: 361px;
+height: 299px;
+top: 1809px;
+left: 156px;
+border-radius: 53px 5px;
+}
+.section h1{
+font-size: 36px;
+font-weight: 500;
+line-height: 30px;
+text-align: left;
+color: rgba(0, 0, 0, 1);
+text-align: center;
+}
+.section h1 span{
+    color: rgba(255, 122, 80, 1);
+}
+.card h3{
+font-size: 24px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+margin: 22px 20px;
+}
+.card p {
+    margin: 14px 20px   ;
+}
+.card p>img{
+    width: 22px;
+    height: 22px;
+opacity: 0.9px;
+}
+.downoload{
+    margin: 162px  89px 0176px ;
+    display: flex;
+    gap: 20px;
+}
+.downoload-text h1{
+    color: rgba(54, 56, 83, 1);
+
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 50px;
+    text-align: left;
+    
+}
+.downoload-text h1 span{
+    font-size: 36px;
+    font-weight: 500;
+    line-height: 50px;
+    text-align: left;
+    color: rgba(255, 122, 80, 1);
+
+}
+.downoload-text p{
+font-size: 20px;
+font-weight: 400;
+line-height: 30px;
+text-align: left;
+margin: 30px auto;
+width: 538px;
+height: 94px;
+top: 2587px;
+left: 176px;
+}
+.downoload-img{
+    width: 616.74px;
+height: 480.59px;
+top: 2388px;
+left: 734.17px;
+border-radius: 30px ;
+}
+.downoload-text{
+    margin: 110px 100px;
+}
+.footer{
+    margin: 110px 130px 50px 130px;
+}
+.subscribe{
+    margin: 110px 130px 0 130px;
+    background: rgba(255, 122, 80, 1);
+    width: 1170px;
+    height: 312px;
+    top: 2979px;
+    left: 138px;
+    border-radius: 20px ;
+}
+.subscribe h1{
+    font-size: 40px;
+font-weight: 500;
+line-height: 47.4px;
+text-align: center;
+padding: 59px 269px;
+color: rgba(255, 255, 255, 1);
+}
